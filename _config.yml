@@ -1,21 +1,21 @@
 # Site settings
-title: PHOTORAMA
+title: Cleriston Dantas
 email: ""
 description: "Photo Journal"
-url: "https://sunbliss.github.io"
+url: "https://cleriston.me"
 baseurl: "/photorama"
-facebook_username: ""
-twitter_username: ""
-instagram_username: ""
-github_username:  ""
-deviantart_username: ""
-flickr_username: ""
-discus_shortname: ""
+facebook_username: "dantascleriston"
+# twitter_username: ""
+instagram_username: "cleristondantas"
+github_username:  "cleristondantas"
+# deviantart_username: ""
+# flickr_username: ""
+# discus_shortname: ""
 share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   cleriston dantas
   avatar: avatar.png
   favicon: favicon.ico
   info: photography website template
