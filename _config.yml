@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://cleriston.me/gallery/"
-  - JOURNAL: "https://cleriston.me/journal/"
-  - ABOUT: "https://cleriston.me/about/"
+  - GALLERY: "http://cleriston.me/gallery/"
+  - JOURNAL: "http://cleriston.me/journal/"
+  - ABOUT: "http://cleriston.me/about/"
 
 # All translation keys
 translations:
